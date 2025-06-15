@@ -32,7 +32,6 @@ def longestUniqueSubstr_Pointer(s):
         right += 1
     
     return res    
-
 if __name__ == "__main__":
     s = "aebcdefghijklmn"
     print(longestUniqueSubstr_Pointer(s))
