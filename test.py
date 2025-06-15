@@ -1,5 +1,7 @@
 MAX_CHAR = 26
 
+
+
 def longestUniqueSubstr_Pointer(s):
     '''
         Input: aebcdefghijklmn
